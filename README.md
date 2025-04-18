@@ -11,6 +11,8 @@ This repository contains projects that simulate robots like G1,Go1,...
 - [Legged robot](#leggedrobot)
     <!-- - [Go1](#Go1) -->
 
+- [Videos](#Video)
+    <!-- - [Go1](#Go1) -->
 
 ## Humanoid
 <a name="humanoid"></a>
@@ -26,4 +28,11 @@ This repository contains projects that simulate robots like G1,Go1,...
 
 | Notebook | Description | Source | 
 |----------|-------------|----------|
-| 🚀 [Go1](https://colab.research.google.com/drive/1lI1opfi2nBaFJC_n9K_JQta9zSILZfPq) | Colab Notebook performs motion simulation for unitree Go1 | 🚀 [RTWholeBodyMPPI](https://github.com/jrapudg/RTWholeBodyMPPI/tree/main) |
+| 🚀 [Go1](https://colab.research.google.com/drive/1isPTSL_Y55-LjxIzbeUI1v-8_eFD5f0w) | Colab Notebook performs motion simulation for unitree Go1 | 🚀 [RTWholeBodyMPPI](https://github.com/jrapudg/RTWholeBodyMPPI/tree/main) |
+
+
+## Videos
+<a name="Video"></a>
+
+![demo](Videos\G1test.gif)
+
