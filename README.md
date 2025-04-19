@@ -36,3 +36,4 @@ This repository contains projects that simulate robots like G1,Go1,...
 
 ![demo](./Videos/G1test.gif)
 
+![demo](./Videos/Go1test.gif)
